@@ -14,9 +14,8 @@
   <img src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/vscode-282A36?style=for-the-badge&logo=visual-studio-code&logoColor=0076C6" />
   
-### other preferences
- <img src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+### Other Preferences
+ <img src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
@@ -25,9 +24,15 @@
   <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorPreviero&langs_count=8"/>
 </details>  
 
+### Contacts
+
 <a href="https://www.linkedin.com/in/heitor-feltrin-previero-b6982814a/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href=mailto:heitorpreviero@gmail.com>
+ <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>  
 
 
 <!--
