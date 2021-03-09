@@ -12,8 +12,11 @@
   <img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src ="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/vscode-282A36?style=for-the-badge&logo=visual-studio-code&logoColor=0076C6" />
-  
+  <img src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+  <img src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+    
 ### Other Preferences
  <img src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
