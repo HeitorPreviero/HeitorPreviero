@@ -22,7 +22,7 @@
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
- 
+  <br>  
   <img width="434px" src="https://github-readme-stats.vercel.app/api?username=HeitorPreviero&hide=issues" /><br>
   <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorPreviero&langs_count=8"/>
 </details>  
