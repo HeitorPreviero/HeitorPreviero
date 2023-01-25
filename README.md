@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# 👨 Sobre mim:
 
 Sou desenvolvedor a mais de cinco anos só que inicie os meus estudos desde 2013, tenho dois cursos técnicos informatica e informatica para internet na Etec de Barra Bonita - SP cidade onde nasci e uma gradução em Gestão de TI na faculdade técnica Fatec de Jaú - SP.
 
